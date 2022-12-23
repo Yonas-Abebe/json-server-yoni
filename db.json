@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yoni",
+      "age": 88
+    },
+    {
+      "name": "Woni",
+      "id": 2,
+      "age": 99
+    },
+    {
+      "Appname": "cass_service_api",
+      "Env": "DEV1",
+      "id": 3
+    },
+    {
+      "Appname": "cass_service_api",
+      "Env": "DEV1",
+      "status": 200,
+      "id": 4
+    },
+    {
+      "Appname": "cass_service_api",
+      "Env": "DEV1",
+      "status": 200,
+      "id": 5
+    }
+  ]
+}
